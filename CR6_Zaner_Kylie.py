@@ -126,4 +126,11 @@ Classify.description()
 Classify.findingperfectnumbers()
 Classify.printingpropers()
 
-
+Classify = ClassifyingNumbers(600)
+Classify.description()        
+Classify.findingperfectnumbers()
+Classify.printingpropers()
+Classify = ClassifyingNumbers(700)
+Classify.description()        
+Classify.findingperfectnumbers()
+Classify.printingpropers()
